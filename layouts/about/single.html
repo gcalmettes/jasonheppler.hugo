@@ -1,0 +1,45 @@
+{{ partial "header.html" . }}
+<body lang="en" itemscope itemtype="http://schema.org/Article">
+  <div id="topbar">
+    <div class="wrapper">
+      <header>
+        
+        {{ template "partials/sidebar.html" . }}
+
+        {{ $baseurl := .Site.BaseURL }}
+      </header>
+    </div>
+  </div>
+
+  <div class="wrapper">
+
+    <h2>About</h2>
+      <div class="unit-70">
+
+          <div class="unit-10">
+
+          </div>
+          
+          <div class="unit-90">
+            
+          </div>
+
+      </div>
+      
+      <div class="unit-30">
+
+      </div>
+
+
+    </div>
+  </div>
+
+</div>
+
+<hr class="separator">
+
+{{ partial "whatisthis.html" . }}
+
+{{ partial "foot.html" . }}
+</body>
+</html>
