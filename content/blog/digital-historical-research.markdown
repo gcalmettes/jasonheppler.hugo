@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2011-03-03T12:31:15Z
 external-url: http://www.historians.org/Perspectives/issues/2011/1103/1103pre1.cfm
-tags:
+categories:
 - research
 - history
 title: Digital Historical Research

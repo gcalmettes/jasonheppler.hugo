@@ -1,9 +1,7 @@
 ---
-categories:
-- research
 date: 2011-06-29T21:53:14Z
-tags:
-- apple
+categories:
+- Apple
 - productivity
 title: Grown Up Computing
 url: /2011/06/29/grown-up-computing/

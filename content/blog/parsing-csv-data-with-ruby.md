@@ -1,8 +1,6 @@
 ---
-categories:
-- hacks
 date: 2013-01-27T20:10:39Z
-tags:
+categories:
 - ruby
 title: Parsing CSV Data with Ruby
 url: /2013/01/27/parsing-csv-data-with-ruby/

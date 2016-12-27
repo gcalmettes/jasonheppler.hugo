@@ -1,9 +1,7 @@
 ---
-categories:
-- Original
 date: 2011-03-01T15:03:33Z
-tags:
-- personal
+categories:
+- design
 title: Why I Don't Use A Commenting System
 url: /2011/03/01/why-i-dont-use-a-commenting-system/
 wordpress_id: 1244

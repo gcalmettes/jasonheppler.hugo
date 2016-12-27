@@ -1,10 +1,9 @@
 ---
-categories:
-- research
 date: 2011-01-08T14:50:41Z
-tags:
-- ruby
+categories:
 - programming
+- ruby
+series: "Rubyist Historian"
 title: 'The Rubyist Historian: Randomness'
 url: /2011/01/08/the-rubyist-historian-iteration-recursion-and-other-randomness/
 wordpress_id: 859

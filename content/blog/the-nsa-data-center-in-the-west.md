@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2012-09-19T15:14:30Z
 external-url: http://www.wired.com/threatlevel/2012/03/ff_nsadatacenter/all/1
-tags:
+categories:
 - American West
 - NSA
 - spying

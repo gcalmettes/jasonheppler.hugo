@@ -1,8 +1,6 @@
 ---
-categories:
-- Original
 date: 2010-10-08T21:41:06Z
-tags:
+categories:
 - personal
 title: Back to Blog (Basics)
 url: /2010/10/08/back-to-blog/

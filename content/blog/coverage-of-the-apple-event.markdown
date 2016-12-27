@@ -1,10 +1,8 @@
 ---
-categories:
-- Apple
 date: 2011-03-02T11:55:40Z
 external-url: http://live.twit.tv
-tags:
-- apple
+categories:
+- Apple
 title: Coverage of the Apple Event
 url: /2011/03/02/coverage-of-the-apple-event/
 ---

@@ -1,11 +1,9 @@
 ---
-categories:
-- hacks
 date: 2011-07-22T22:53:44Z
-tags:
+categories:
 - workflow
 - productivity
-- nvalt
+- nvAlt
 title: Using Notational Velocity
 url: /2011/07/22/using-notational-velocity/
 ---

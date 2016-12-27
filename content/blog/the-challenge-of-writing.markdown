@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2011-04-28T15:10:51Z
 external-url: http://www.boston.com/news/local/articles/2006/12/31/columnist_donald_murray_dies_at_82/
-tags:
+categories:
 - writing
 title: The Challenge of Writing
 url: /2011/04/28/the-challenge-of-writing/

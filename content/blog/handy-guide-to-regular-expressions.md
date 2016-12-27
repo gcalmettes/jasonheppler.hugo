@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2012-09-18T09:28:07Z
 external-url: http://etext.lib.virginia.edu/services/helpsheets/unix/regex.html
-tags:
+categories:
 - programming
 title: Handy Guide to Regular Expressions
 url: /2012/09/18/handy-guide-to-regular-expressions/

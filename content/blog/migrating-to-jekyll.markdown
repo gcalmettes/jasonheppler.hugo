@@ -1,8 +1,6 @@
 ---
-categories:
-- hacks
 date: 2011-04-19T11:53:16Z
-tags:
+categories:
 - writing
 - blogging
 title: Migrating to Jekyll

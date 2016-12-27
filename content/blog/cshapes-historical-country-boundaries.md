@@ -1,7 +1,7 @@
 ---
 categories:
-- hacks
-- linkblog
+- mapping
+- data
 date: 2014-09-21T21:30:34Z
 external-url: http://nils.weidmann.ws/projects/cshapes/
 tags: []

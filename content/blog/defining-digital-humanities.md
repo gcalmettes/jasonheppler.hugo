@@ -1,6 +1,7 @@
 ---
 categories:
 - research
+- digital humanities
 date: 2013-01-08T09:35:31Z
 title: Defining Digital Humanities
 url: /2013/01/08/defining-digital-humanities/

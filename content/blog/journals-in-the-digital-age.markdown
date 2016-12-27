@@ -1,8 +1,6 @@
 ---
-categories:
-- research
 date: 2012-02-05T09:00:46Z
-tags:
+categories:
 - history
 - publishing
 title: Journals in the Digital Age

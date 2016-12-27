@@ -1,8 +1,6 @@
 ---
-categories:
-- research
 date: 2012-07-11T15:20:15Z
-tags:
+categories:
 - writing
 title: What I've Learned as an Academic Blogger
 url: /2012/07/11/what-i-learned-as-an-academic-blogger/

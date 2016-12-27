@@ -1,12 +1,10 @@
 ---
-categories:
-- hacks
 date: 2014-06-04T06:46:47Z
 description: null
 image:
   feature: dhsi2014_game.jpg
   thumb: null
-tags:
+categories:
 - DHSI
 title: What does Missile Command have to do with Digital History?
 url: /2014/06/04/what-does-missile-command-have-to-do-with-digital-history/

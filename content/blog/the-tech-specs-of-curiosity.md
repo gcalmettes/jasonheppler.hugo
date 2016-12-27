@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2012-08-08T06:49:15Z
 external-url: http://www.extremetech.com/extreme/134041-inside-nasas-curiosity-its-an-apple-airport-extreme-with-wheels
-tags:
+categories:
 - technology
 title: The Tech Specs of Curiosity
 url: /2012/08/08/the-tech-specs-of-curiosity/

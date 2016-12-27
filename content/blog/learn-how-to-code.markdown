@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2011-01-30T12:45:51Z
 external-url: http://lifehacker.com/5736011/learn-how-to-code-part-i-variables-and-basic-data-types
-tags:
+categories:
 - programming
 title: Learn How to Code
 url: /2011/01/30/learn-how-to-code/

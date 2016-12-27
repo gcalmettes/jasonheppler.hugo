@@ -1,10 +1,8 @@
 ---
-categories:
-- Academe
 date: 2008-05-02T19:41:01Z
-tags:
+categories:
 - kindle
-- digital-humanities
+- digital humanities
 title: Kindle as a Metaphore for the History Web
 url: /2008/05/02/kindle-as-a-metaphore-for-the-history-web/
 wordpress_id: 41

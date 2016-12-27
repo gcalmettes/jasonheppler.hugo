@@ -1,8 +1,6 @@
 ---
-categories:
-- research
 date: 2012-05-21T21:21:30Z
-tags:
+categories:
 - ruby
 - programming
 title: Forking the Rubyist Historian

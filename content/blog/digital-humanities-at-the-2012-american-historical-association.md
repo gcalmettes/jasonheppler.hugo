@@ -1,9 +1,6 @@
 ---
-categories:
-- Academe
 date: 2011-09-26T20:49:20Z
-tags:
-- unl-dhs
+categories:
 - conference
 title: Digital Humanities at the 2012 American Historical Association
 url: /2011/09/26/digital-humanities-at-the-2012-american-historical-association/

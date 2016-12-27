@@ -1,6 +1,6 @@
 ---
 date: 2013-02-23T09:40:32Z
-tags:
+categories:
 - personal
 title: The Link Blog Experiment
 url: /2013/02/23/the-link-blog-experiment/

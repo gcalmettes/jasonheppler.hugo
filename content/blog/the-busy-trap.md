@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2012-07-09T22:57:37Z
 external-url: http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/
-tags:
+categories:
 - productivity
 title: The Busy Trap
 url: /2012/07/09/the-busy-trap/

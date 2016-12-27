@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2011-01-30T00:12:21Z
 external-url: https://www.eff.org/deeplinks/2011/01/eff-releases-report-detailing-fbi-intelligence
-tags:
+categories:
 - personal
 - privacy
 title: EFF Uncovers Widespread FBI Violations

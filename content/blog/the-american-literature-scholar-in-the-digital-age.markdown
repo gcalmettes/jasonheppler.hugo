@@ -1,10 +1,8 @@
 ---
-categories:
-- Link
 date: 2011-03-03T11:31:01Z
 external-url: http://www.amazon.com/gp/product/0472051199?ie=UTF8&tag=jasohepp-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0472051199
-tags:
-- digital-humanities
+categories:
+- digital humanities
 title: The American Literature Scholar in the Digital Age
 url: /2011/03/03/the-american-literature-scholar-in-the-digital-age/
 ---

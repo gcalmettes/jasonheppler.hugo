@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2011-05-18T10:59:13Z
 external-url: http://www.instapaper.com/faq
-tags:
+categories:
 - writing
 title: Writing and the Problem of Quick Consumption
 url: /2011/05/18/writing-and-the-problem-of-quick-consumption/

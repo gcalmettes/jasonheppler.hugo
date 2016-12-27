@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2011-02-14T23:50:38Z
 external-url: http://stevelosh.com/blog/2010/09/coming-home-to-vim/
-tags:
+categories:
 - vim
 - productivity
 - writing

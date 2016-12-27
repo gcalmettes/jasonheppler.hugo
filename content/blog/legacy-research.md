@@ -1,9 +1,7 @@
 ---
 author: Jason Heppler
-categories:
-- research
 date: 2011-12-17T15:43:45Z
-tags:
+categories:
 - research
 - productivity
 title: Legacy Research

@@ -1,15 +1,13 @@
 ---
-categories:
-- research
-- shorts
 date: 2014-07-17T15:22:41Z
 image:
   feature: null
   thumb: null
 post_type: Shorts
-tags:
-- WHA
+categories:
+- Western History Association
 - conference
+- research
 title: Environmental History at the 2014 Western History Association Conference
 url: /2014/07/17/environmental-history-at-the-2014-western-history-association-conference/
 ---

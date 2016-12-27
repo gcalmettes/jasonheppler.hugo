@@ -1,10 +1,7 @@
 ---
-categories:
-- Original
 date: 2012-02-15T23:01:26Z
-tags:
+categories:
 - coffee
-- frenchpress
 title: The French Press Method
 url: /2012/02/15/the_french_press_method/
 ---

@@ -1,8 +1,6 @@
 ---
-categories:
-- Review
 date: 2008-11-08T00:06:34Z
-tags:
+categories:
 - review
 title: 'The Dell Mini 9: A Historian''s Review'
 url: /2008/11/08/the-dell-mini-9-a-historians-review/

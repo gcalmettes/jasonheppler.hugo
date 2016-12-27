@@ -1,8 +1,8 @@
 ---
 date: 2012-12-13T23:10:14Z
 external-url: http://iconsandcoffee.com/perspective-icons/
-tags:
-- link
+categories:
+- Omnifocus
 title: Perspective Icons for Omnifocus
 url: /2012/12/13/perspective-icons-for-omnifocus/
 ---

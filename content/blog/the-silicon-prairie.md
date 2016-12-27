@@ -1,8 +1,11 @@
 ---
 date: 2012-11-21T22:30:33Z
 external-url: http://www.nytimes.com/2012/11/22/us/silicon-prairie-takes-root-in-the-great-plains.html
-tags:
-- link
+categories:
+- Silicon Valley
+- Silicon Prairie
+- dissertation
+- research
 title: The Silicon Prairie
 url: /2012/11/21/the-silicon-prairie/
 ---

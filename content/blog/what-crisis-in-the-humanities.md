@@ -1,10 +1,9 @@
 ---
-categories:
-- essay
 date: 2013-11-02T09:34:02Z
 description: null
-tags:
-- null
+categories:
+- humanities
+- education
 title: What Crisis in the Humanities?
 url: /2013/11/02/what-crisis-in-the-humanities/
 ---

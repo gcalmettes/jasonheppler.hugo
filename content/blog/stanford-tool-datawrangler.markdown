@@ -1,10 +1,8 @@
 ---
-categories:
-- Link
 date: 2011-02-03T19:38:16Z
 external-url: http://www.readwriteweb.com/hack/2011/02/datawrangler.php
-tags:
-- digital-humanities
+categories:
+- digital humanities
 title: Stanford Tool DataWrangler
 url: /2011/02/03/stanford-tool-datawrangler/
 wordpress_id: 1272

@@ -1,8 +1,8 @@
 ---
 date: 2012-12-11T09:42:54Z
 external-url: http://travel.cnn.com/fine-art-perfect-tokyo-coffee-684001
-tags:
-- link
+categories:
+- coffee
 title: Fussy Coffee
 url: /2012/12/11/fussy-coffee/
 ---

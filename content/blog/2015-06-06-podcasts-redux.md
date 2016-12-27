@@ -3,7 +3,6 @@ title: "Podcasts Redux"
 date: 2015-06-06
 categories:
 - podcasts
-- essay
 comments: true
 ---
 

@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2011-01-30T23:49:51Z
 external-url: http://www.datelinezero.com/2011/01/29/3-projects-to-create-a-government-less-internet-and-why-its-needed/
-tags:
+categories:
 - internet
 - law
 title: Creating a Government-less Internet

@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2012-07-10T16:22:24Z
 external-url: http://chronicle.com/article/Writing-for-History-Buffs/132755
-tags:
+categories:
 - writing
 title: Writing for History Buffs
 url: /2012/07/10/writing-for-history-buffs/

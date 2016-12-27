@@ -1,8 +1,6 @@
 ---
-categories:
-- Original
 date: 2011-07-14T11:00:40Z
-tags:
+categories:
 - identity
 - internet
 title: Own Your Identity

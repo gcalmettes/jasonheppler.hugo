@@ -1,12 +1,10 @@
 ---
 author: Jason Heppler
-categories:
-- research
 date: 2011-10-12T17:03:39Z
-tags:
-- unl-dhs
+categories:
 - scholarship
 - writing
+- research
 title: Models for Narrative in Digital Humanities
 url: /2011/10/12/narrative-in-digital-scholarship/
 ---

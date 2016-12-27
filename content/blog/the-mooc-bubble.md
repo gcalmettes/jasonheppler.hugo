@@ -1,10 +1,9 @@
 ---
-categories:
-- link
 date: 2013-02-03T09:55:34Z
 external-url: http://railroads.unl.edu/blog/?p=967
-tags:
-- link
+categories:
+- MOOCs
+- education
 title: The MOOC Bubble
 url: /2013/02/03/the-mooc-bubble/
 ---

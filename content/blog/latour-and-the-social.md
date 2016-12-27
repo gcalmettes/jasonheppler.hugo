@@ -1,11 +1,8 @@
 ---
 author: Jason Heppler
-categories:
-- research
 date: 2011-10-20T10:52:40Z
-tags:
-- unl-dhs
-- digital-humanities
+categories:
+- digital humanities
 title: Latour and the Social
 url: /2011/10/20/latour-and-the-social/
 ---

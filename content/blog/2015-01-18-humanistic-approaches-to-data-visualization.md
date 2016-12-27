@@ -2,7 +2,6 @@
 title: "Humanistic Approaches to Data Visualization"
 date: 2015-01-18
 categories:
-- hacks
 - visualization
 - digital history
 ---

@@ -1,11 +1,9 @@
 ---
-categories:
-- Link
 date: 2011-03-03T09:39:45Z
 external-url: http://theaporetic.com/?p=1679
-tags:
+categories:
 - publishing
-- peer-review
+- peer review
 - editing
 title: Editing in the Digital Age
 url: /2011/03/03/editing-in-the-digital-age/

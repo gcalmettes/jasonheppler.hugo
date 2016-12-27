@@ -1,12 +1,9 @@
 ---
-categories:
-- Link
 date: 2011-05-25T10:55:16Z
 external-url: http://www.samplereality.com/2011/05/25/the-digital-humanities-is-not-about-building-its-about-sharing/
-tags:
-- digital-humanities
+categories:
+- digital humanities
 title: 'Digital Humanities: Not Building, But Sharing'
-url: /2011/05/25/digital-humanities:-not-building,-but-sharing/
 ---
 
 [Mark Sample](http://www.samplereality.com/2011/05/25/the-digital-humanities-is-not-about-building-its-about-sharing/):

@@ -1,10 +1,8 @@
 ---
-categories:
-- Link
 date: 2011-03-12T16:48:11Z
 external-url: http://blog.instapaper.com/post/3772087268
-tags:
-- instapaper
+categories:
+- Instapaper
 title: Instapaper 3.0
 url: /2011/03/12/instapaper-3-0/
 ---

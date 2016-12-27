@@ -1,10 +1,9 @@
 ---
-categories:
-- Link
 date: 2012-09-29T08:52:12Z
 external-url: http://www.economist.com/node/21553445
-tags:
+categories:
 - internet
+- history
 title: Bit Rot
 url: /2012/09/29/bit-rot/
 ---

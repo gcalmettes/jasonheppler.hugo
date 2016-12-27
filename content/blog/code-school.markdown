@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2011-03-22T21:22:35Z
 external-url: http://codeschool.com/
-tags:
+categories:
 - programming
 title: Code School
 url: /2011/03/22/code-school/

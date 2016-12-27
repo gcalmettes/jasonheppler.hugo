@@ -1,9 +1,7 @@
 ---
-categories:
-- articles
 date: 2012-09-05T09:44:25Z
 post-type: full
-tags:
+categories:
 - personal
 title: Turning 28
 url: /2012/09/05/turning-28/

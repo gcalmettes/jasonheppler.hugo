@@ -1,10 +1,8 @@
 ---
-categories:
-- teaching
 date: 2010-08-10T20:18:36Z
-tags:
+categories:
 - productivity
-- graduate-school
+- graduate school
 title: Preparing for Your Semester Teaching Assistantship
 url: /2010/08/10/preparing-for-your-semester-teaching-assistantship/
 ---

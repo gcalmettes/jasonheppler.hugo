@@ -1,10 +1,9 @@
 ---
-categories:
-- research
 date: 2011-01-04T07:30:52Z
-tags:
+categories:
 - programming
 - ruby
+series: "Rubyist Historian"
 title: 'The Rubyist Historian: Arrays and Hashes'
 url: /2011/01/04/the-rubyist-historian-arrays-hashes-and-more-io/
 wordpress_id: 715

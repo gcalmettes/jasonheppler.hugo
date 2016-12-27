@@ -1,9 +1,7 @@
 ---
-categories:
-- Academe
 date: 2011-03-17T22:42:08Z
-tags:
-- digital-humanities
+categories:
+- digital humanities
 title: Day of DH
 url: /2011/03/17/day-of-dh/
 ---

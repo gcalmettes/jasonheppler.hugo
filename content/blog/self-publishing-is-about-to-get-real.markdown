@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2011-06-27T12:18:19Z
 external-url: http://www.aaronmahnke.com/post/6829568465
-tags:
+categories:
 - writing
 - publishing
 title: Self-Publishing is About to Get Real

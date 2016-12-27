@@ -2,7 +2,7 @@
 date: 2013-05-20T23:58:29Z
 image:
   feature: spencer.jpg
-tags:
+categories:
 - weather
 - tornadoes
 - Midwest

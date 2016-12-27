@@ -1,8 +1,6 @@
 ---
-categories:
-- Academe
 date: 2011-06-29T21:13:22Z
-tags:
+categories:
 - history
 - dissertation
 title: Silicon Valley and the Cold War

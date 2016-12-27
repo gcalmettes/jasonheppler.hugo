@@ -1,9 +1,7 @@
 ---
-categories:
-- Academe
 date: 2008-09-18T10:20:04Z
-tags:
-- digital-humanities
+categories:
+- digital humanities
 title: The Promise of Digital History
 url: /2008/09/18/the-promise-of-digital-history/
 wordpress_id: 44

@@ -3,10 +3,6 @@ author: Jason Heppler
 categories:
 - research
 date: 2011-12-01T10:47:00Z
-tags:
-- unl-dhs
-- robotics
-- machine-learning
 title: Alone Together
 url: /2011/12/01/alone-together/
 ---

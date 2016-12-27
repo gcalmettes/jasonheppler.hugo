@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2010-11-20T10:34:53Z
 external-url: http://www.scientificamerican.com/article.cfm?id=long-live-the-web
-tags:
+categories:
 - internet
 title: Long Live the Web
 url: /2010/11/20/long-live-the-web/

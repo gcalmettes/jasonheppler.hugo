@@ -1,8 +1,6 @@
 ---
-categories:
-- Academe
 date: 2008-12-18T19:31:02Z
-tags:
+categories:
 - research
 - thesis
 title: 'Framing Red Power: Newspapers and the Trail of Broken Treaties'

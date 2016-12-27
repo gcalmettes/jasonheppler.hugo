@@ -1,9 +1,8 @@
 ---
-categories:
-- hacks
 date: 2013-04-05T22:43:46Z
-tags:
+categories:
 - History Harvest
+- Nebraska
 title: History Harvest Blitz Week
 url: /2013/04/05/history-harvest-blitz-week/
 ---

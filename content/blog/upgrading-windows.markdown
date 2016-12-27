@@ -1,10 +1,8 @@
 ---
-categories:
-- Link
 date: 2011-03-04T00:19:09Z
 external-url: http://kottke.org/11/03/upgrading-windows-from-10-to-70
-tags:
-- microsoft
+categories:
+- Microsoft
 - history
 title: Upgrading Windows
 url: /2011/03/04/upgrading-windows/

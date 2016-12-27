@@ -1,16 +1,13 @@
 ---
-categories:
-- hacks
-- essay
 date: 2014-07-12T08:09:46Z
 description: null
 image:
   feature: null
   thumb: null
 post_type: Essay
-tags:
+categories:
 - Ruby
-- D3.js
+- D3js
 - JSON
 title: Simple Parsing CSV to JSON
 url: /2014/07/12/parsing-csv-to-json/

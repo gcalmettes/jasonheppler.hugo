@@ -5,29 +5,26 @@ layoutdir: "layouts"
 publishdir: "public"
 builddrafts: false
 pygmentsuseclasses: true
-baseurl: "https://jasonheppler.org"
+baseurl: "http://jasonheppler.org"
 indexes:
   category: "categories"
 title: "Jason Heppler"
 CanonifyUrls: true
 menu:
   main:
-      - Name: "About"
-        URL: "/about"
-        Weight: 2
       - Name: "Research"
-        URL: "/publications"
-        Weight: 3
+        URL: "/publications/"
+        Weight: 2
       - Name: "Teaching"
-        URL: "/teaching"
-        Weight: 4
+        URL: "/teaching/"
+        Weight: 3
       - Name: "Blog"
-        URL: "/blog"
-        Weight: 5
+        URL: "/blog/"
+        Weight: 4
       - Name: "Vita"
         URL: "/downloads/pdf/jah-cv.pdf"
-        Weight: 6
+        Weight: 5
 permalinks:
   blog: /:year/:month/:day/:slug
-  archive: /blog/archives/
+  archive: /archives/
 ...

@@ -1,8 +1,6 @@
 ---
-categories:
-- hacks
 date: 2012-10-12T14:17:15Z
-tags:
+categories:
 - programming
 - ruby
 title: Better Web Scraping with Nokogiri

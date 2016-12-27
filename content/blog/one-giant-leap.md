@@ -1,10 +1,9 @@
 ---
-categories:
-- Link
 date: 2012-08-28T09:58:01Z
 external-url: http://tightwind.net/2012/08/one-giant-leap/
-tags:
-- links
+categories:
+- space
+- Neil Armstrong
 title: One Giant Leap
 url: /2012/08/28/one-giant-leap/
 ---

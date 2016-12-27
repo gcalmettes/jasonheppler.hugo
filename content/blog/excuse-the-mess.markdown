@@ -1,9 +1,7 @@
 ---
-categories:
-- Original
 date: 2010-10-03T00:20:53Z
 excerpt: Doing some work redesigning the theme for the site.
-tags:
+categories:
 - personal
 title: Excuse the Mess
 url: /2010/10/03/excuse-the-mess/

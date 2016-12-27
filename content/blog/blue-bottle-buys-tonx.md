@@ -1,13 +1,11 @@
 ---
-categories:
-- linked
 date: 2014-04-08T10:15:09Z
 description: null
 external-url: http://www.wired.com/2014/04/blue-bottle-tonx-handsome/all/1
 image:
   feature: null
   thumb: null
-tags:
+categories:
 - coffee
 title: Blue Bottle Buys Tonx
 url: /2014/04/08/blue-bottle-buys-tonx/

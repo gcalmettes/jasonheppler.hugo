@@ -16,14 +16,20 @@
     <div id="topbar">
       <div class="wrapper">
         <header>
-          {{ partial "sidebar.html" . }}  
+          {{ partial "sidebar.html" . }}
         </header>
       </div>
     </div>
 
-    <div class="wrapper">		
+    <div class="wrapper">
       <div class="units-row">
         <div class="unit-66">
+          <p><strong>Hi, I'm <a href="http://twitter.com/jaheppler">Jason</a></strong>. A fourth-generation Westerner born and raised in South Dakota, I am a <a href="http://library.unomaha.edu">Digital Engagement Librarian</a> and <a href="http://www.unomaha.edu/college-of-arts-and-sciences/history/">Assistant Professor of History</a> at the <a href="http://unomaha.edu">University of Nebraska at Omaha</a> and a Researcher with Stanford University's <a href="http://spatialhistory.stanford.edu">Spatial History Project</a>. I am a historian of the North American West, with particular interest in industrialization and suburbanization, recreation, twentieth-century politics and political culture, and environmental history. I write here regularly on <a href="/archives/">my blog</a>, contribute to the <a href="http://blogwest.org">BlogWest</a> group blog, and co-host the <a href="http://overanalyze.fireside.fm">Overanalyze</a> podcast.</p>
+
+<p>My first book, tentatively titled <em>Suburban by Nature: Environmental Politics and the Imagining of Silicon Valley</em>, explores the postwar growth of the cities in Silicon Valley and the ways that their growth not only led to ecological disaster but introduced social inequality that fueled an environmental politic that redefined liberal and conservative politics in the region. While Silicon Valley's high-tech companies were imagined as a clean and green alternative to industrialization, the growth, manufacturing, and economic activity introduced challenges to the region's wildlife and its residents. <em>Suburban by Nature</em> looks at how local communities confronted these challenges and offers a case study for other high-tech regions seeking to balance nature and city.</p>
+
+          <h2>Recent Posts</h2>
+
           <div class="units-row-end">
             <div class="unit-33 dateblock">
               &nbsp;
@@ -44,19 +50,19 @@
               <p class="text-right"><a href="{{ .RelPermalink }}">Read More…</a></p>
               {{ else }}
               {{ .Content }}
-              {{ end }}	
+              {{ end }}
             </div>
           </div>
 
           {{ end }}
-          
+
           <center>
                 {{ partial "allcats.html" . }}
           </center>
 
           <div class="units-row-end">
             <div class="unit-33 dateblock">&nbsp;</div>
-          </div>	
+          </div>
         </div>
 
         <div class="unit-33">
@@ -64,23 +70,23 @@
           <h3>Recent Publications &amp; Digital Research</h3>
           <ul class="compact fa-ul">
             {{ range first 5 (where .Data.Pages.ByDate "Section" "publications").Reverse }}
-            <li><i class="fa-li fa  {{ if eq .Type "unpublished" }}fa-file-o {{ else if eq .Params.kind "book" }}fa-book {{ else if eq .Params.kind "thesis"}}fa-pencil {{else if eq .Type "digital" }}fa-file-code-o {{ else }}fa-file {{ end }} fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i> {{ .Params.citation | safeHTML }} 
+            <li><i class="fa-li fa  {{ if eq .Type "unpublished" }}fa-file-o {{ else if eq .Params.kind "book" }}fa-book {{ else if eq .Params.kind "thesis"}}fa-pencil {{else if eq .Type "digital" }}fa-file-code-o {{ else }}fa-file {{ end }} fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i> {{ .Params.citation | safeHTML }}
               <a href="{{ .Permalink }}" class="badge badge-small">Abstract</a>
             </li>
 	    {{ end }}
           </ul>
-	  
-          <footer class="group">	
-            <nav class="navbar navbar-right"><a href="/publications">&rarr; More Research</a></nav> 
+
+          <footer class="group">
+            <nav class="navbar navbar-right"><a href="/publications">&rarr; More Research</a></nav>
           </footer>
-	  
-          <h3>Recent Teaching</h3>			
+
+          <h3>Recent Teaching</h3>
 	  <ul class="compact fa-ul">
             {{ range (where .Data.Pages.ByDate "Section" "teaching").Reverse }}
 	    {{ if (ge .Date.Unix .Now.Unix) }}
 	    {{ if (le .Date.Unix (add .Now.Unix 7776000)) }}
-            <li><i class="fa-li fa fa-mortar-board fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, {{ .Date.Format "January" }}&ndash;{{ .Params.enddate | dateFormat "January 2006" }}.  {{ partial "comingsoon.html" . }}
-            </li>		
+            <li><i class="fa-li fa fa-mortar-board fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, {{ .Date.Format "January 2006" }}.  {{ partial "comingsoon.html" . }}
+            </li>
 	    {{ end }}
 	    {{ end }}
 	    {{ end }}
@@ -89,7 +95,7 @@
 	    {{ if (le .Date.Unix .Now.Unix) }}
 	    {{ if (le .Now.Unix (add .Date.Unix .Params.duration)) }}
             <li><i class="fa-li fa fa-mortar-board fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, {{ .Date.Format "January" }}&ndash;{{ .Params.enddate | dateFormat "January 2006" }}. {{ partial "nowon.html" . }}
-            </li>		
+            </li>
 	    {{ end }}
 	    {{ end }}
 	    {{ end }}
@@ -99,17 +105,17 @@
 	    {{ if (le .Now.Unix (add $classend 10368000)) }}
 
             <li><i class="fa-li fa fa-mortar-board fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, {{ .Date.Format "January" }}&ndash;{{ .Params.enddate | dateFormat "January 2006" }}. <span class="badge badge-small">completed</span>
-            </li>		
+            </li>
 	    {{ end }}
 	    {{ end }}
 	    {{ end }}
           </ul>
-          
-          <footer class="group">	
-            <nav class="navbar navbar-right"><br /><a href="teaching">&rarr; Other Classes</a></nav> 
+
+          <footer class="group">
+            <nav class="navbar navbar-right"><br /><a href="teaching">&rarr; Other Classes</a></nav>
           </footer>
         </div>
-      </div>	
+      </div>
     </div>
 
     </div><!-- /end .wrapper -->

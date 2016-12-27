@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2010-12-30T00:57:05Z
 external-url: http://warpspire.com/posts/url-design/
-tags:
+categories:
 - design
 title: URL Design
 url: /2010/12/30/url-design/

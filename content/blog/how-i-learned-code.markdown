@@ -1,8 +1,6 @@
 ---
-categories:
-- hacks
 date: 2010-12-03T07:24:21Z
-tags:
+categories:
 - programming
 title: How I Learned Code
 url: /2010/12/03/how-i-learned-code/

@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2012-09-12T10:19:12Z
 external-url: http://ryan.cordells.us/blog/2012/09/12/useful-resources-for-the-academic-job-market/
-tags:
+categories:
 - career
 title: Resources for the Academic Job Market
 url: /2012/09/12/resources-for-the-academic-job-market/

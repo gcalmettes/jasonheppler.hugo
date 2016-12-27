@@ -1,9 +1,7 @@
 ---
-categories:
-- hacks
 date: 2011-07-09T22:22:14Z
-tags:
-- twitter
+categories:
+- Twitter
 - terminal
 title: Twitter from the Command Line
 url: /2011/07/09/twitter-from-the-command-line/

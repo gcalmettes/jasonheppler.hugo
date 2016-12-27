@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2012-06-04T14:40:57Z
 external-url: http://heydave.org/post/24286720323/gtd-sucks-for-creative-work-heres-an-alternative
-tags:
+categories:
 - productivity
 title: An Alternative GTD System
 url: /2012/06/04/an-alternative-gtd-system/

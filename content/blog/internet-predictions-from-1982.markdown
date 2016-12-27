@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2011-06-29T10:50:44Z
 external-url: http://www.nytimes.com/1982/06/14/us/study-says-technology-could-transform-society.html
-tags:
+categories:
 - internet
 - history
 - dissertation

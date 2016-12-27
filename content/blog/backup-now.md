@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2012-08-06T06:06:21Z
 external-url: http://www.marco.org/2012/08/04/mat-hacked
-tags:
+categories:
 - backup
 title: Backup Now
 url: /2012/08/06/backup-now/

@@ -2,8 +2,8 @@
 categories:
 - research
 date: 2011-09-04T09:14:54Z
-tags:
-- unl-dhs
+categories:
+- digital humanities
 title: The Medium of Digital Humanities
 url: /2011/09/04/the-medium-of-digital-humanities/
 ---

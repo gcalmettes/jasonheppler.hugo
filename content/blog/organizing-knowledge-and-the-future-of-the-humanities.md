@@ -1,10 +1,8 @@
 ---
-categories:
-- research
 date: 2011-09-01T12:17:36Z
-tags:
-- unl-dhs
+categories:
 - knowledge
+- research
 title: Organizing Knowledge and the Future of the Humanities
 url: /2011/09/01/organizing-knowledge-and-the-future-of-the-humanities/
 ---

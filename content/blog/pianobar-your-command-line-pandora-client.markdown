@@ -2,7 +2,7 @@
 categories:
 - Original
 date: 2010-11-24T17:30:08Z
-tags:
+categories:
 - terminal
 title: Pianobar, Your Command Line Pandora Client
 url: /2010/11/24/pianobar-your-command-line-pandora-client/

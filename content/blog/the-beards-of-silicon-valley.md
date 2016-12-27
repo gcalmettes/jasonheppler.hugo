@@ -1,8 +1,8 @@
 ---
 date: 2012-11-23T22:33:27Z
 external-url: http://www.wired.com/wiredenterprise/2012/11/20-12-st_beardtaxonomy/
-tags:
-- link
+categories:
+- personal
 title: The Beards of Silicon Valley
 url: /2012/11/23/the-beards-of-silicon-valley/
 ---

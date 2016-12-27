@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2011-06-27T20:08:39Z
 external-url: http://www.nytimes.com/2011/06/28/us/28scotus.html
-tags:
+categories:
 - law
 - gaming
 title: US Supreme Court Rules Video Games Protected Under the First Amendment

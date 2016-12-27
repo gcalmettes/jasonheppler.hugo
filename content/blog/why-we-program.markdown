@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2010-12-22T09:56:13Z
 external-url: http://savagelook.com/blog/portfolio/programmers-why-do-we-do-it
-tags:
+categories:
 - programming
 title: Why We Program
 url: /2010/12/22/why-we-program/

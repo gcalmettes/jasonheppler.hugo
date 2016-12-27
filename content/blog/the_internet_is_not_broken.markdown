@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2012-02-29T13:36:59Z
 external-url: https://plus.google.com/u/1/105076678694475690385/posts/3zhRzzSAs8b
-tags:
+categories:
 - internet
 title: The Internet is Not Broken
 url: /2012/02/29/the_internet_is_not_broken/

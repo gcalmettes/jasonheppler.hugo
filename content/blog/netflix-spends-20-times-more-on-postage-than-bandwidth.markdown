@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2011-01-18T00:35:02Z
 external-url: http://www.digitalsociety.org/2011/01/netflix-spends-20-times-more-on-postage-than-bandwidth/
-tags:
+categories:
 - personal
 - internet
 title: Netflix Spends 20 Times More on Postage than Bandwidth

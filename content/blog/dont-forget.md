@@ -1,9 +1,7 @@
 ---
-categories:
-- Technology
 date: 2013-06-27T15:28:43Z
 description: null
-tags:
+categories:
 - rss
 title: Don't Forget Google Reader Goes Dark Monday
 url: /2013/06/27/dont-forget/

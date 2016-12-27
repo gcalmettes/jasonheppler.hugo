@@ -1,10 +1,7 @@
 ---
-categories:
-- hacks
-- linked
 date: 2013-12-23T21:47:57Z
 external-url: http://dh.stanford.edu/topotime/
-tags:
+categories:
 - topotime
 title: Topotime
 url: /2013/12/23/topotime/

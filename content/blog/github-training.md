@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2012-10-08T16:48:14Z
 external-url: http://training.github.com/
-tags:
+categories:
 - code
 title: Github Training
 url: /2012/10/08/github-training/

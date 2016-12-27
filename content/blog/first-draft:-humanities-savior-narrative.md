@@ -1,10 +1,7 @@
 ---
-categories:
-- hacks
-- linkblog
 date: 2014-07-22T14:35:28Z
 external-url: http://www.firstdraftpodcast.com/post/92555886158/s1e7-humanities-savior-narrative-glen-worthey
-tags:
+categories:
 - podcast
 - First Draft
 title: 'First Draft Podcast: Humanities Savior Narrative'

@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2011-06-28T08:00:00Z
 external-url: http://arstechnica.com/science/2011/06/textbooks-of-the-future-will-be-born-digital-and-accessible/
-tags:
+categories:
 - academia
 - publishing
 title: The Market for Digital Textbooks

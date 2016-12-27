@@ -1,12 +1,10 @@
 ---
-categories:
-- Link
 date: 2011-03-15T11:57:23Z
 external-url: http://player.vimeo.com/video/20290657
-tags:
-- project-management
-title: "\"You think youâ\x80\x99re being a leader, but youâ\x80\x99re probably being
-  a manager.\""
+categories:
+- project management
+title: '"You think you are being a leader, but you are probably being
+  a manager."'
 url: /2011/03/15/you-think-you%e2%80%99re-being-a-leader-but-you%e2%80%99re-probably-being-a-manager/
 ---
 

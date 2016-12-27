@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2011-01-25T00:17:09Z
 external-url: http://www.computedstyle.com/2010/12/hiring-front-end-engineers.html
-tags:
+categories:
 - workflow
 title: Hiring Front-End Engineers
 url: /2011/01/25/hiring-front-end-engineers/

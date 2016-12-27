@@ -1,6 +1,6 @@
 ---
 categories:
-- Link
+- producivity
 date: 2012-03-01T20:52:52Z
 external-url: http://37signals.com/svn/posts/3124-give-it-five-minutes
 title: Give It Five Minutes

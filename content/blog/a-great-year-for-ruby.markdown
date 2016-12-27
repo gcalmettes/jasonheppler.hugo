@@ -3,7 +3,7 @@ categories:
 - Link
 date: 2010-12-14T09:59:34Z
 external-url: http://www.rubyinside.com/ruby-in-2010-a-retrospective-4059.html
-tags:
+categories:
 - programming
 - ruby
 title: A Great Year for Ruby

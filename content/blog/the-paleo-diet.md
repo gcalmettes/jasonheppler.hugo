@@ -1,9 +1,7 @@
 ---
 author: Jason Heppler
-categories:
-- Original
 date: 2012-02-02T09:20:33Z
-tags:
+categories:
 - paleo
 - personal
 title: The Paleo Diet

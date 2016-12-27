@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2012-05-16T21:24:24Z
 external-url: http://ruby.bastardsbook.com/
-tags:
+categories:
 - ruby
 title: The Bastards Book of Ruby
 url: /2012/05/16/the-bastards-book-of-ruby/

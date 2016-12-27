@@ -1,9 +1,7 @@
 ---
-categories:
-- linked
 date: 2013-10-01T12:17:49Z
 external-url: http://www.drbunsen.org/coffee-experiments/
-tags:
+categories:
 - coffee
 title: Dr Bunsen Coffee Experiments
 url: /2013/10/01/dr-bunsen-coffee-experiments/

@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2012-07-16T20:47:29Z
 external-url: http://www.theatlantic.com/technology/archive/2012/07/what-the-internet-actually-looks-like/259815/
-tags:
+categories:
 - internet
 title: What the Internet Looks Like
 url: /2012/07/16/what-the-internet-looks-like/

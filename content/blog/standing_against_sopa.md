@@ -1,10 +1,8 @@
 ---
-categories:
-- Web
 date: 2012-01-18T21:05:00Z
-tags:
+categories:
 - internet
-- sopa
+- SOPA
 title: Standing Against SOPA
 url: /2012/01/18/standing_against_sopa/
 ---

@@ -1,8 +1,8 @@
 ---
 date: 2012-12-13T23:15:18Z
 external-url: http://the-northwind.com/bout-beards
-tags:
-- link
+categories:
+- miscellaneous
 title: About Beards
 url: /2012/12/13/about-beards/
 ---

@@ -1,9 +1,6 @@
 ---
-categories:
-- hacks
-- essay
 date: 2013-10-18T12:26:32Z
-tags:
+categories:
 - digital history
 - Stanford
 title: Digital History at Stanford

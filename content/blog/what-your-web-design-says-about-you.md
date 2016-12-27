@@ -1,10 +1,8 @@
 ---
-categories:
-- Link
 date: 2012-11-10T21:26:39Z
 external-url: http://www.loopinsight.com/2012/11/10/what-your-web-design-says-about-you/
-tags:
-- null
+categories:
+- design
 title: What Your Web Design Says About You
 url: /2012/11/10/what-your-web-design-says-about-you/
 ---

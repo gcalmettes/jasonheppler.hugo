@@ -1,14 +1,12 @@
 ---
-categories:
-- teaching
-- shorts
 date: 2014-09-21T21:11:38Z
 image:
   feature: null
   thumb: null
 post_type: Shorts
-tags:
+categories:
 - digital history
+- teaching
 title: Syllabus for Digital History
 url: /2014/09/21/syllabus-for-digital-history/
 ---

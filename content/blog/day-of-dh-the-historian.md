@@ -1,14 +1,11 @@
 ---
-categories:
-- essay
-- hacks
 date: 2014-04-08T14:46:13Z
 description: null
 image:
   feature: null
   thumb: null
-tags:
-- DH
+categories:
+- digital humanities
 title: 'Day of DH: The Historian'
 url: /2014/04/08/day-of-dh-the-historian/
 ---

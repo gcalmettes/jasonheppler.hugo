@@ -1,8 +1,6 @@
 ---
-categories:
-- articles
 date: 2012-09-24T20:27:38Z
-tags:
+categories:
 - coffee
 title: Grad Students Guide to Good Coffee
 url: /2012/09/24/grad-students-guide-to-good-coffee/

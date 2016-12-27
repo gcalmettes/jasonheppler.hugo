@@ -1,9 +1,7 @@
 ---
-categories:
-- Hacks
 date: 2013-08-21T10:43:15Z
 description: Using Editorial with Bibkeys for citation management.
-tags:
+categories:
 - Editorial
 - iPad
 title: Using Editorial and Bibkeys Together

@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2011-02-14T22:42:35Z
 external-url: http://www.youtube.com/embed/JUs7iG1mNjI
-tags:
+categories:
 - history
 - internet
 title: What is the Internet?

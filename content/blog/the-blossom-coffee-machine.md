@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2012-10-02T10:31:24Z
 external-url: http://www.theverge.com/2012/10/1/3432980/blossom-one-limited-coffee-maker-11111
-tags:
+categories:
 - coffee
 title: The Blossom Coffee Machine
 url: /2012/10/02/the-blossom-coffee-machine/

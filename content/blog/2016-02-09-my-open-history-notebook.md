@@ -2,7 +2,6 @@
 title: "My Open History Notebook"
 date: 2016-02-09
 categories: 
-- hacks 
 - open notebook
 - digital history
 ---

@@ -2,8 +2,8 @@
 categories:
 - research
 date: 2011-10-06T10:53:20Z
-tags:
-- unl-dhs
+categories:
+- digital humanities
 title: SpecLab and Digital Aesthetics
 url: /2011/10/06/speclab-and-digital-aesthetics/
 ---

@@ -1,10 +1,9 @@
 ---
-categories:
-- research
 date: 2011-03-15T08:00:11Z
-tags:
-- spatial-humanities
+categories:
+- spatial humanities
 - review
+- research
 title: Initial Thoughts on TileMill
 url: /2011/03/15/initial-thoughts-on-tilemill/
 ---

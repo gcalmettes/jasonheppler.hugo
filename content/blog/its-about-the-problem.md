@@ -1,9 +1,7 @@
 ---
-categories:
-- research
 date: 2012-05-15T22:49:09Z
 post-type: full
-tags:
+categories:
 - programming
 - code
 title: It's About the Problem

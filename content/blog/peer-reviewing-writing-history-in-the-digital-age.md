@@ -1,12 +1,10 @@
 ---
 author: Jason Heppler
-categories:
-- research
 date: 2011-10-27T09:51:58Z
-tags:
-- unl-dhs
-- peer-review
-- open-access
+categories:
+- peer review
+- open access
+- research
 title: Peer Reviewing Writing History in the Digital Age
 url: /2011/10/27/peer-reviewing-writing-history-in-the-digital-age/
 ---

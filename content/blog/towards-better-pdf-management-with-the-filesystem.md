@@ -1,9 +1,7 @@
 ---
-categories:
-- research
 date: 2012-08-13T08:30:09Z
 post-type: full
-tags:
+categories:
 - productivity
 title: Towards Better PDF Management with the Filesystem
 url: /2012/08/13/towards-better-pdf-management-with-the-filesystem/

@@ -1,9 +1,7 @@
 ---
-categories:
-- linked
 date: 2013-12-30T09:58:57Z
 external-url: http://www.theatlantic.com/business/archive/2013/12/the-devious-ad-campaign-that-convinced-america-coffee-was-bad-for-kids/282676/
-tags:
+categories:
 - coffee
 title: The Campaign Against Coffee
 url: /2013/12/30/the-campaign-against-coffee/

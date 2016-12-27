@@ -1,11 +1,9 @@
 ---
-categories:
-- hacks
 date: 2012-11-24T09:19:18Z
-tags:
+categories:
 - productivity
-- skim
-- applescript
+- Skim
+- Applescript
 title: Using AppleScript to Automate Notetaking
 url: /2012/11/24/using-applescript-to-automate-notetaking/
 ---

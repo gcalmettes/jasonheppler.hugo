@@ -1,10 +1,8 @@
 ---
-categories:
-- Link
 date: 2011-08-23T09:58:37Z
 external-url: http://www.stephenwolfram.com/publications/articles/computing/88-academic/1/text.html
-tags:
-- apple
+categories:
+- Apple
 - history
 title: Project 2000 - Apple Computer
 url: /2011/08/23/project-2000-apple-computer/

@@ -2,8 +2,8 @@
 categories:
 - hacks
 date: 2012-11-14T22:09:43Z
-tags:
-- textexpander
+categories:
+- TextExpander
 - blogging
 title: Searching My Brain
 url: /2012/11/14/searching/

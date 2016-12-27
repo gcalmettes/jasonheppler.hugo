@@ -1,9 +1,7 @@
 ---
-categories:
-- Academe
 date: 2008-04-12T09:35:23Z
-tags:
-- digital-humanities
+categories:
+- digital humanities
 title: 'Liveblogging the Rawley: The Historical Community Online'
 url: /2008/04/12/liveblogging-the-rawley-the-historical-community-online/
 wordpress_id: 36

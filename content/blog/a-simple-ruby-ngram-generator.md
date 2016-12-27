@@ -2,7 +2,7 @@
 categories:
 - research
 date: 2012-04-24T15:45:43Z
-tags:
+categories:
 - ruby
 - scripting
 - terminal

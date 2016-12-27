@@ -1,8 +1,6 @@
 ---
-categories:
-- hacks
 date: 2012-12-05T22:48:56Z
-tags:
+categories:
 - vim
 - writing
 title: Word Processor Mode in Vim

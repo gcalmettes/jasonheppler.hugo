@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2011-03-13T23:05:55Z
 external-url: https://www.youtube.com/watch?v=UF8uR6Z6KLc
-tags:
+categories:
 - apple
 - productivity
 title: Go Be Awesome

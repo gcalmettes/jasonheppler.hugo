@@ -1,10 +1,8 @@
----
-categories:
-- research
+---categories
 date: 2011-09-14T14:01:49Z
-tags:
-- unl-dhs
-- digitalhistory
+categories:
+- digital history
+- research
 title: Electronic Text and the Digital Humanities
 url: /2011/09/14/electronic-text-and-the-theory-of-digital-humanities/
 ---

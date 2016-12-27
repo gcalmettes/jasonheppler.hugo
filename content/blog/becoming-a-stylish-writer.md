@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2012-07-05T21:59:41Z
 external-url: http://chronicle.com/article/Becoming-a-Stylish-Writer/132677/
-tags:
+categories:
 - writing
 title: Becoming a Stylish Writer
 url: /2012/07/05/becoming-a-stylish-writer/

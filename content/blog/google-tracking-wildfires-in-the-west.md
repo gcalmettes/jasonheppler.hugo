@@ -1,10 +1,10 @@
 ---
-categories:
-- Link
 date: 2012-07-05T22:11:53Z
 external-url: http://arstechnica.com/security/2012/07/google-tracks-hellish-wildfire-season-in-the-american-west/
-tags:
+categories:
 - Google
+- wildfires
+- American West
 title: Google Tracking Wildfires in the West
 url: /2012/07/05/google-tracking-wildfires-in-the-west/
 ---

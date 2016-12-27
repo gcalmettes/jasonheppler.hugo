@@ -1,9 +1,7 @@
 ---
 author: Jason Heppler
+date: 2011-12-31
 categories:
-- Original
-date: 2011-12-31T22:26:17Z
-tags:
 - productivity
 - time
 - attention

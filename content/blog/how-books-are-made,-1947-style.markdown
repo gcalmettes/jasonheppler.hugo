@@ -1,10 +1,9 @@
 ---
-categories:
-- Link
 date: 2011-06-29T10:56:04Z
 external-url: http://www.youtube.com/embed/hBztGX-2i1M
-tags:
+categories:
 - history
+- books
 title: How Books Are Made, 1947 Style
 url: /2011/06/29/how-books-are-made,-1947-style/
 ---

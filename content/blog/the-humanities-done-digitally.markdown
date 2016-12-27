@@ -1,10 +1,8 @@
 ---
-categories:
-- Link
 date: 2011-05-09T18:27:56Z
 external-url: http://chronicle.com/article/The-Humanities-Done-Digitally/127382/
-tags:
-- digital-humanities
+categories:
+- digital humanities
 title: The Humanities Done Digitally
 url: /2011/05/09/the-humanities-done-digitally/
 ---

@@ -2,9 +2,8 @@
 categories:
 - Link
 date: 2012-04-25T21:44:48Z
-tags:
+categories:
 - coffee
-- aeropress
 title: Adam Lisagor's AeroPress Tribute
 url: /2012/04/25/adam-lisagors-aeropress-tribute/
 ---

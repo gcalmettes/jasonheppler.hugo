@@ -1,8 +1,8 @@
 ---
 date: 2012-12-15T15:23:30Z
 external-url: http://frankchimero.com/blog/2012/12/digital-jubilee/
-tags:
-- link
+categories:
+- productivity
 title: Digital Jubilee
 url: /2012/12/15/digital-jubilee/
 ---

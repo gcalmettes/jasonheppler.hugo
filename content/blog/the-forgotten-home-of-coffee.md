@@ -1,10 +1,8 @@
 ---
-categories:
-- linked
 date: 2013-09-01T13:51:04Z
 description: A video on the origins of coffee.
 external-url: http://vimeo.com/67890000
-tags:
+categories:
 - coffee
 title: The Forgotten Home of Coffee
 url: /2013/09/01/the-forgotten-home-of-coffee/

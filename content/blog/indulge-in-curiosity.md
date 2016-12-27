@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2012-07-25T08:12:07Z
 external-url: http://www.wired.com/epicenter/2011/10/jobs/all/1
-tags:
+categories:
 - productivity
 title: Indulge in Curiosity
 url: /2012/07/25/indulge-in-curiosity/

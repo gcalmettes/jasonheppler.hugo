@@ -2,7 +2,6 @@
 title: "Teaching Digital History"
 date: 2014-12-30
 categories:
-- hacks
 - teaching
 - education
 comments: false

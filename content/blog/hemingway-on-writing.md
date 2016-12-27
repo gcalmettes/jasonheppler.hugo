@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2012-05-10T09:25:45Z
 external-url: http://www.theparisreview.org/interviews/4825/the-art-of-fiction-no-21-ernest-hemingway
-tags:
+categories:
 - writing
 title: Hemingway on Writing
 url: /2012/05/10/hemingway-on-writing/

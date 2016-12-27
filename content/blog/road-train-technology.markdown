@@ -1,10 +1,8 @@
 ---
-categories:
-- Link
 date: 2011-01-19T09:01:28Z
 external-url: http://www.newscientist.com/article/dn19987-road-train-technology-can-drive-your-car-for-you.html
-tags:
-- machine-learning
+categories:
+- machine learning
 title: Road Train Technology
 url: /2011/01/19/road-train-technology/
 wordpress_id: 1007

@@ -1,9 +1,8 @@
 ---
-categories:
-- hacks
 date: 2012-10-10T23:43:21Z
-tags:
+categories:
 - productivity
+- digital history
 title: Building Your Own Memex
 url: /2012/10/10/building-your-own-memex/
 ---

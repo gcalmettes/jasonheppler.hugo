@@ -1,10 +1,7 @@
 ---
-categories:
-- hacks
-- linkblog
 date: 2014-07-29T13:41:58Z
 external-url: http://www.firstdraftpodcast.com/post/93238764558/s1e8-liberation-technology-topics-the
-tags:
+categories:
 - First Draft
 - podcast
 title: 'First Draft Podcast: Liberation Technology'

@@ -1,10 +1,8 @@
----
-categories:
-- Original
+---categories
 date: 2011-01-16T21:42:00Z
-tags:
+categories:
 - internet
-- facebook
+- Facebook
 - privacy
 title: Facebook and the Problem of Publics
 url: /2011/01/16/facebook-and-the-problem-of-publics/

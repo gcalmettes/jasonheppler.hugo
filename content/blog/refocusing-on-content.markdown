@@ -1,8 +1,6 @@
 ---
-categories:
-- Original
 date: 2010-11-28T00:24:07Z
-tags:
+categories:
 - writing
 title: Refocusing on Content
 url: /2010/11/28/refocusing-on-content/

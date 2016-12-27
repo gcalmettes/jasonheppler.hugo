@@ -1,10 +1,7 @@
 ---
 author: Jason Heppler
-categories:
-- Original
 date: 2011-11-09T21:39:08Z
-tags:
-- unl-dhs
+categories:
 - internet
 title: What My lolcat Ate For Breakfast
 url: /2011/11/09/internet-freedom/

@@ -1,11 +1,10 @@
 ---
-categories:
-- linked
 date: 2013-08-30T12:09:13Z
 description: null
 external-url: http://madebyloren.com/github-for-writers
-tags:
+categories:
 - github
+- writing
 title: Github for Writers
 url: /2013/08/30/github-for-writers/
 ---

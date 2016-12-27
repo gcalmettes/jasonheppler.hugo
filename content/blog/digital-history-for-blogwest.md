@@ -1,10 +1,7 @@
 ---
-categories:
-- hacks
-- essay
 date: 2013-12-17T19:45:10Z
 description: null
-tags:
+categories:
 - digital history
 - BlogWest
 - western history

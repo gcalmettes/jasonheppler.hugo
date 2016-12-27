@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2011-03-29T22:06:56Z
 external-url: http://informationr.net/ir/16-1/paper469.html
-tags:
+categories:
 - publishing
 title: Alternative Scholarly Publishing
 url: /2011/03/29/alternative-scholarly-publishing/

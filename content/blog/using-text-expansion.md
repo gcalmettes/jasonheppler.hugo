@@ -1,9 +1,7 @@
 ---
-categories:
-- hacks
 date: 2012-12-07T08:00:00Z
-tags:
-- textexpander
+categories:
+- TextExpander
 title: Using Text Expansion in My Research Workflow
 url: /2012/12/07/using-text-expansion/
 ---

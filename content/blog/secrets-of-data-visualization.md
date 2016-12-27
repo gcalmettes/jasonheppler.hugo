@@ -1,8 +1,8 @@
 ---
 date: 2013-02-23T09:07:13Z
 external-url: http://www.netmagazine.com/features/seven-dirty-secrets-data-visualisation
-tags:
-- link
+categories:
+- data visualization
 title: Secrets of Data Visualization
 url: /2013/02/23/secrets-of-data-visualization/
 ---

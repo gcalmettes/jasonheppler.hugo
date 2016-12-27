@@ -1,9 +1,7 @@
 ---
-categories:
-- linked
 date: 2012-05-15T16:16:56Z
 external-url: https://worldaeropresschampionship.wordpress.com/recipes/
-tags:
+categories:
 - coffee
 title: World Aeropress Championship
 url: /2012/05/15/world-aeropress-championship/

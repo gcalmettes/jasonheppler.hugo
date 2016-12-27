@@ -1,10 +1,7 @@
 ---
 author: Jason Heppler
-categories:
-- research
 date: 2011-11-17T10:43:15Z
-tags:
-- unl-dhs
+categories:
 - internet
 title: Who Controls the Master Switch
 url: /2011/11/17/who-controls-the-master-switch/

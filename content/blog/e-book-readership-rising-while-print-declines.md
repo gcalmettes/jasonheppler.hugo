@@ -1,8 +1,9 @@
 ---
 date: 2012-12-28T00:18:25Z
 external-url: http://libraries.pewinternet.org/2012/12/27/e-book-reading-jumps-print-book-reading-declines/
-tags:
-- link
+categories:
+- e-books
+- publishing
 title: E-book Readership Rising While Print Declines
 url: /2012/12/28/e-book-readership-rising-while-print-declines/
 ---

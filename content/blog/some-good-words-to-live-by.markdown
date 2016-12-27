@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2010-10-10T08:56:58Z
 external-url: http://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution
-tags:
+categories:
 - personal
 title: Some Good Words to Live By
 url: /2010/10/10/some-good-words-to-live-by/

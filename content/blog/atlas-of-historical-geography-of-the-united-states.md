@@ -1,9 +1,7 @@
 ---
-categories:
-- hacks
 date: 2013-12-25T09:52:15Z
 external-url: http://dsl.richmond.edu/historicalatlas/
-tags:
+categories:
 - historical geography
 - spatial history
 - linkblog

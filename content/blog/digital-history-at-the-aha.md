@@ -1,11 +1,9 @@
 ---
 author: Jason Heppler
-categories:
-- Academe
 date: 2012-01-05T10:12:16Z
-tags:
+categories:
 - conference
-- digitalhistory
+- digital history
 title: Digital History at the AHA
 url: /2012/01/05/digital-history-at-the-aha/
 ---

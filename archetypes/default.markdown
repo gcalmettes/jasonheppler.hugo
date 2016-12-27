@@ -1,8 +1,10 @@
 ---
 categories: [x,y]
-footnotes: false
-htmlwidgets: false
-mathjax: false
+description:
+image:
+    feature: null
+    thumb: null
+series:
 ---
 
 

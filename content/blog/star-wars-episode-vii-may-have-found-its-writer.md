@@ -1,10 +1,9 @@
 ---
-categories:
-- Link
 date: 2012-11-09T09:26:22Z
 external-url: http://www.vulture.com/2012/11/star-wars-episode-vii-may-have-found-its-writer.html
-tags:
-- null
+categories:
+- Star Wars
+- film
 title: Star Wars Episode VII May Have Found Its Writer
 url: /2012/11/09/star-wars-episode-vii-may-have-found-its-writer/
 ---

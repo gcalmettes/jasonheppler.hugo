@@ -1,10 +1,9 @@
 ---
-categories:
-- teaching
 date: 2008-11-29T12:12:29Z
-tags:
+categories:
 - design
-- digital-humanities
+- digital humanities
+- teaching
 title: 'How To: Designing Digital History'
 url: /2008/11/29/how-to-designing-digital-history/
 ---

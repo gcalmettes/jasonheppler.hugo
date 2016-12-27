@@ -1,8 +1,6 @@
 ---
-categories:
-- hacks
 date: 2013-04-28T12:50:35Z
-tags:
+categories:
 - DPLA
 title: The Digital Public Library of America
 url: /2013/04/28/the-digital-public-library-of-america/

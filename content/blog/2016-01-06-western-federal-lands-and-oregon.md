@@ -6,6 +6,7 @@ categories:
 - public lands
 - politics
 - American West
+series: Living West
 ---
 
 <aside class="post">

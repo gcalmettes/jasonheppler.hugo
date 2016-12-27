@@ -1,7 +1,7 @@
 ---
 date: 2012-11-26T20:50:52Z
-tags:
-- omnifocus
+categories:
+- Omnifocus
 title: OmniFocus Workflow and Notes
 url: /2012/11/26/omnifocus-workflow-and-notes/
 ---

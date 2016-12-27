@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2012-09-27T17:33:23Z
 external-url: http://www.salon.com/1999/10/28/internet_2/print/
-tags:
+categories:
 - dissertation
 title: How the Internet Ruined San Francisco
 url: /2012/09/27/how-the-internet-ruined-san-francisco/

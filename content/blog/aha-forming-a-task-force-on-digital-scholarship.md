@@ -2,8 +2,8 @@
 categories:
 - research
 date: 2012-06-06T12:46:55Z
-tags:
-- digital-humanities
+categories:
+- digital humanities
 title: AHA Forming a Task Force on Digital Scholarship
 url: /2012/06/06/aha-forming-a-task-force-on-digital-scholarship/
 ---

@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2012-09-21T20:47:20Z
 external-url: https://www.eff.org/deeplinks/2012/09/copyright-and-campaign-misinformation-new-study-affirms-less-copyright
-tags:
+categories:
 - copyright
 title: Fewer Copyright Restrictions Benefit the Economy
 url: /2012/09/21/fewer-copyright-restrictions-benefit-the-economy/

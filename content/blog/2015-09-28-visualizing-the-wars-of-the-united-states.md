@@ -2,7 +2,6 @@
 title: "Visualizing the Wars of the United States"
 date: 2015-09-28
 categories: 
-- hacks
 - d3js 
 - visualization
 ---

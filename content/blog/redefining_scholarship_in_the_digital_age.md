@@ -1,8 +1,6 @@
 ---
-categories:
-- research
 date: 2012-01-22T13:01:44Z
-tags:
+categories:
 - history
 - publishing
 - scholarship

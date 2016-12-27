@@ -1,10 +1,9 @@
 ---
-categories:
-- research
 date: 2012-06-07T19:18:08Z
-tags:
+categories:
 - scripts
 - bash
+- research
 title: A Few New Scripts
 url: /2012/06/07/automating-tasks/
 ---

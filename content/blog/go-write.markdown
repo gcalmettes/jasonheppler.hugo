@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2011-04-03T12:05:23Z
 external-url: http://blog.frankchimero.com/post/4212953701/tweeting-and-writing-and-deflating-like-a-balloon
-tags:
+categories:
 - writing
 title: Go Write
 url: /2011/04/03/go-write/

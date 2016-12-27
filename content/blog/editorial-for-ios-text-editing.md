@@ -1,16 +1,14 @@
 ---
-categories:
-- hacks
-- essay
 date: 2014-06-30T21:18:49Z
 description: null
 image:
   feature: null
   thumb: null
 post_type: Essay
-tags:
+categories:
 - Editorial
 - iOS
+- review
 title: Editorial is a Powerful, Flexible iOS App for Text Editing
 url: /2014/06/30/editorial-for-ios-text-editing/
 ---

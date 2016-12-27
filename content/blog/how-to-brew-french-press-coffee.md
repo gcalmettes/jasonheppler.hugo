@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2012-06-15T20:27:41Z
 external-url: http://www.sofawned.com/2012/01/how-to-brew-french-press-coffee-or-one.html
-tags:
+categories:
 - coffee
 title: How to Brew French Press Coffee
 url: /2012/06/15/how-to-brew-french-press-coffee/

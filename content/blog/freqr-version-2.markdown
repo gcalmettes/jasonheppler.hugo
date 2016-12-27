@@ -1,13 +1,11 @@
 ---
-categories:
-- Original
 date: 2011-02-13T09:36:26Z
-tags:
+categories:
 - ruby
 - terminal
 - programming
 - visualization
-- textanalysis
+- text analysis
 title: FREQr Version 2
 url: /2011/02/13/freqr-version-2/
 wordpress_id: 1185

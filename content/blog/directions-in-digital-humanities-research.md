@@ -1,12 +1,9 @@
 ---
 author: Jason Heppler
-categories:
-- research
 date: 2011-12-07T20:56:37Z
-tags:
-- unl-dhs
+categories:
 - history
-- digitalhistory
+- digital history
 - research
 - scholarship
 title: Directions in Digital Humanities Research

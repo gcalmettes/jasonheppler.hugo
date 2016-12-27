@@ -3,7 +3,7 @@ categories:
 - Link
 date: 2011-03-04T23:44:37Z
 external-url: http://blog.readability.com/2011/02/a-web-designed-for-reading/
-tags:
+categories:
 - writing
 - reading
 - internet

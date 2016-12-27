@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2011-01-26T00:12:29Z
 external-url: http://www.inc.com/magazine/20101201/how-to-kill-a-bad-idea.html
-tags:
+categories:
 - workflow
 - productivity
 title: The Importance of No

@@ -1,9 +1,7 @@
 ---
-categories:
-- articles
 date: 2012-09-01T06:15:05Z
 post-type: full
-tags:
+categories:
 - podcasts
 title: On Podcasts
 url: /2012/09/01/podcasts/

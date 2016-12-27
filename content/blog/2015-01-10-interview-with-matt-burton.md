@@ -2,8 +2,9 @@
 title: "Interview with Matt Burton"
 date: 2015-01-10
 categories:
-- hacks
 - interview
+- digital history
+- digital humanities
 comments: true
 ---
 

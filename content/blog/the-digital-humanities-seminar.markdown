@@ -2,8 +2,8 @@
 categories:
 - research
 date: 2011-08-29T12:55:34Z
-tags:
-- unl-dhs
+categories:
+- digital humanities
 title: The Digital Humanities Seminar
 url: /2011/08/29/the-digital-humanities-seminar/
 ---

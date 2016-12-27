@@ -1,10 +1,12 @@
 ---
-categories:
-- Link
 date: 2012-06-16T00:21:35Z
 external-url: http://dotfiles.github.com/
-tags:
+categories:
 - github
+- dotfiles
+- vim
+- bash
+- zsh
 title: Dotfiles on Github
 url: /2012/06/16/dotfiles-on-github/
 ---

@@ -1,10 +1,8 @@
 ---
-categories:
-- hacks
 date: 2012-10-16T17:01:51Z
-tags:
+categories:
 - vim
-- marked
+- Marked
 title: Opening Marked in Vim
 url: /2012/10/16/opening-marked-in-vim/
 ---

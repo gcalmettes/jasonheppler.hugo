@@ -1,9 +1,7 @@
 ---
-categories:
-- linked
 date: 2013-12-22T22:16:37Z
 external-url: http://www.mistobox.com/Articles.asp?ID=349
-tags:
+categories:
 - coffee
 title: Coffee Brewing Guides
 url: /2013/12/22/coffee-guides/

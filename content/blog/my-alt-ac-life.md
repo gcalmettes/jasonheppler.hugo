@@ -1,9 +1,6 @@
 ---
-categories:
-- hacks
-- essay
 date: 2013-10-02T09:52:27Z
-tags:
+categories:
 - alt-ac
 - career
 - work

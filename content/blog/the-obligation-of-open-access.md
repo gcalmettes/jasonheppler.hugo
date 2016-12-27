@@ -1,10 +1,8 @@
 ---
 author: Jason Heppler
-categories:
-- research
 date: 2011-10-25T09:27:33Z
-tags:
-- open-access
+categories:
+- open access
 title: The Obligation of Open Access
 url: /2011/10/25/the-obligation-of-open-access/
 ---

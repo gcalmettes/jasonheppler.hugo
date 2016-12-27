@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2011-06-29T18:16:07Z
 external-url: http://www.locusmag.com/Features/2009/01/cory-doctorow-writing-in-age-of.html
-tags:
+categories:
 - writing
 title: Writing in the Age of Distraction
 url: /2011/06/29/writing-in-the-age-of-distraction/

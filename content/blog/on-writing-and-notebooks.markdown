@@ -1,8 +1,6 @@
 ---
-categories:
-- Original
 date: 2011-07-11T08:30:00Z
-tags:
+categories:
 - writing
 title: On Writing and Notebooks
 url: /2011/07/11/on-writing-and-notebooks/

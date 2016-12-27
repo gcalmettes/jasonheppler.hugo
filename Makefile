@@ -14,22 +14,19 @@
 
 
 SSH_USER = jasonhep@jasonheppler.org
-DOCUMENT_ROOT = ~/jasonheppler.org
+DOCUMENT_ROOT = ~/public_html/jasonheppler/
 PUBLIC_DIR = public/
 
 all: deploy
 
-staging: site
-	rsync -crzve 'ssh -p 22' $(PUBLIC_DIR) $(STAGING_USER):$(STAGING_ROOT)
-
 server: css
-	hugo server -ws .
+	hugo server --buildDrafts -ws .
 
 deploy: compress site
 	rsync -crzve 'ssh -p 22' $(PUBLIC_DIR) $(SSH_USER):$(DOCUMENT_ROOT)
 
 compress: css
-	java -jar ~/bin/yuicompressor-2.4.8.jar static/css/stylesheet.css -o static/css/stylesheet-min.css --charset utf-8
+	java -jar ~/.dotfiles/bin/yuicompressor-2.4.8.jar static/css/stylesheet.css -o static/css/stylesheet-min.css --charset utf-8
 
 site: css .FORCE
 	hugo 

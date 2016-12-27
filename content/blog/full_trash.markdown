@@ -1,8 +1,6 @@
 ---
-categories:
-- Original
 date: 2012-03-03T22:33:40Z
-tags:
+categories:
 - personal
 title: Full Trash
 url: /2012/03/03/full_trash/

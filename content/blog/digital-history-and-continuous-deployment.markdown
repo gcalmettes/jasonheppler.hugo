@@ -1,10 +1,9 @@
 ---
-categories:
-- research
 date: 2011-03-02T07:45:53Z
-tags:
-- digital-humanities
+categories:
+- digital humanities
 - publishing
+- research
 title: Digital History and Continuous Deployment
 url: /2011/03/02/digital-history-and-continuous-deployment/
 ---

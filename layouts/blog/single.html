@@ -12,15 +12,18 @@
 <div class="wrapper">
 <div class="units-row">		
 <div class="unit-20">&nbsp;</div>
-<div class="unit-60"><h2><a href="">{{ .Title }}</a></h2></div>
+<div class="unit-60"><h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2></div>
 </div>
 <div class="units-row">		
   <div class="unit-20 dateblock">{{if not (isset .Params "grlog") }}<h4>{{ .Date.Format "January 2, 2006" }}</h4>{{ else }}&nbsp;{{ end }}
     
     {{ if .Params.categories }}
-    Filed under:
-    {{ range $index, $category := .Params.categories }}{{ if gt $index 0 }}, {{ end }}<a class="small" href="{{ $baseurl }}categories/{{ . | urlize }}">{{ . }}</a>{{ end }}
+    {{ range $index, $category := .Params.categories }}{{ if gt $index 0 }} / {{ end }}<a class="small" href="{{ $baseurl }}/categories/{{ . | urlize }}">{{ . }}</a>{{ end }}
     {{ end }}
+    
+    <br><br>
+    
+    <strong>Reading time</strong>: <br>{{.ReadingTime}} min. | {{ .WordCount }} words
     
     <br/><br/>
     

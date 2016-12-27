@@ -1,9 +1,7 @@
 ---
-categories:
-- hacks
 date: 2013-04-12T09:48:46Z
 external-url: http://www.zephoria.org/thoughts/archives/2013/04/11/mendeley-elsevier.html
-tags:
+categories:
 - open access
 title: Mendeley and Open Access
 url: /2013/04/12/mendeley-and-open-access/

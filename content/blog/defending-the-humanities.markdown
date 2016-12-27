@@ -1,9 +1,7 @@
 ---
-categories:
-- Original
 date: 2011-03-02T12:28:10Z
 external-url: http://www.insidehighered.com/news/2011/03/01/gates_tells_governors_they_might_determine_public_university_program_funding_based_on_job_creation
-tags:
+categories:
 - history
 title: Defending the Humanities
 url: /2011/03/02/defending-the-humanities/

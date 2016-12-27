@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2011-05-29T10:49:54Z
 external-url: http://chronicle.com/blogs/wiredcampus/gaming-the-archives/31435
-tags:
+categories:
 - archives
 - gaming
 title: Gaming the Archives

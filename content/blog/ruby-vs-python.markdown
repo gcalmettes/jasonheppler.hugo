@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2010-11-28T10:31:57Z
 external-url: http://allthingsprogress.com/posts/ruby-is-beautiful-but-im-moving-to-python
-tags:
+categories:
 - programming
 - ruby
 - python

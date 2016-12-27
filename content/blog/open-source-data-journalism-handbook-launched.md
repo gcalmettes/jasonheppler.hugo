@@ -1,10 +1,8 @@
 ---
-categories:
-- Link
 date: 2012-05-08T07:46:29Z
 external-url: http://datajournalismhandbook.org/1.0/en/index.html
-tags:
-- datamining
+categories:
+- data mining
 - journalism
 - tools
 title: Open Source Data Journalism Handbook Launched

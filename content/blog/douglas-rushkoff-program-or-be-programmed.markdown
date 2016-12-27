@@ -1,9 +1,7 @@
 ---
-categories:
-- Link
 date: 2010-10-11T19:59:03Z
 external-url: http://www.boingboing.net/2010/10/06/program-or-be-progra-1.html
-tags:
+categories:
 - programming
 title: Douglas Rushkoff, Program or Be Programmed
 url: /2010/10/11/douglas-rushkoff-program-or-be-programmed/

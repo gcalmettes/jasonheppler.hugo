@@ -1,9 +1,7 @@
 ---
-categories:
-- Academe
 date: 2008-04-08T17:31:44Z
-tags:
-- digital-humanities
+categories:
+- digital humanities
 title: Bobley Visits UNL
 url: /2008/04/08/bobley-visits-unl/
 wordpress_id: 32

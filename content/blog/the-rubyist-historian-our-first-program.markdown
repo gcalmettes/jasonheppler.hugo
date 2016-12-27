@@ -1,10 +1,9 @@
 ---
-categories:
-- research
 date: 2011-01-12T10:50:41Z
-tags:
+categories:
 - programming
 - ruby
+series: "Rubyist Historian"
 title: 'The Rubyist Historian: Our First Program'
 url: /2011/01/12/the-rubyist-historian-our-first-program/
 wordpress_id: 770
