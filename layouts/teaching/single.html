@@ -17,6 +17,9 @@
         <article class="post" id="content">
         <h3>{{ .Title }}</h3>  
         {{ .Content }}
+
+        <hr>
+        <p>{{ .Params.host }} | {{ .Date.Format "Jan 2, 2006" }}</p>
         </article>
       </div>
     </div>

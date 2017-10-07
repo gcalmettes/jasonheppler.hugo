@@ -1,4 +1,4 @@
----categories
+---
 date: 2011-01-16T21:42:00Z
 categories:
 - internet
@@ -6,7 +6,6 @@ categories:
 - privacy
 title: Facebook and the Problem of Publics
 url: /2011/01/16/facebook-and-the-problem-of-publics/
-wordpress_id: 931
 ---
 
 <a href="http://www.forbes.com/2010/04/05/google-facebook-twitter-technology-security-10-privacy.html">Bruce Schneier</a> on privacy:

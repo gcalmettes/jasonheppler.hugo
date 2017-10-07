@@ -10,21 +10,37 @@ indexes:
   category: "categories"
 title: "Jason Heppler"
 CanonifyUrls: true
+RSSLink: "feed.xml"
 menu:
   main:
       - Name: "Research"
-        URL: "/publications/"
+        URL: "/research/"
         Weight: 2
       - Name: "Teaching"
         URL: "/teaching/"
         Weight: 3
+      - Name: "Public History"
+        URL: "/public-history/"
+        Weight: 4
+      - Name: "Talks"
+        URL: "/talks/"
+        Weight: 5
       - Name: "Blog"
         URL: "/blog/"
-        Weight: 4
+        Weight: 6
       - Name: "Vita"
         URL: "/downloads/pdf/jah-cv.pdf"
-        Weight: 5
+        Weight: 7
 permalinks:
   blog: /:year/:month/:day/:slug
-  archive: /archives/
-...
+  archive: /blog/archives/
+
+outputFormats:
+  jsonfeed:
+    mediaType: "application/json"
+    baseName: "feed"
+    isPlainText: true
+
+outputs:
+  home: ["html", "jsonfeed", "rss"]
+---

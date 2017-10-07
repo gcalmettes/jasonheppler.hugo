@@ -215,6 +215,7 @@
   border-radius: 0.5em;
   -webkit-font-smoothing: subpixel-antialiased;
   line-height: normal;
+  font-size: 12px;
 }
 .bigfoot-footnote__content img {
   max-width: 100%;

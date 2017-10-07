@@ -1,4 +1,4 @@
----categories
+---
 date: 2014-07-14T07:00:49Z
 external-url: http://www.firstdraftpodcast.com/post/91733292838/s1e6-the-pragmatic-tyranny-of-building-digital
 categories:

@@ -3,12 +3,8 @@
     <div class="meta"><h4>{{ .Date.Format "Mon, Jan 2, 2006" }}</h4></div>
       <h2><a href='{{ .Permalink }}'> {{ .Title }}</a> </h2>
     </header>
-    
-    <div id="summary-post">
-    {{ .Summary }}
-    </div>
 
-    <footer>
-        <a href='{{ .Permalink }}' id="more-link"><nobr>Continue reading →</nobr></a>
-    </footer>
+    <div id="summary-post">
+    {{ .Summary }} <a href='{{ .Permalink }}' id="more-link"><nobr>Continue reading →</nobr></a>
+    </div>
 </article>

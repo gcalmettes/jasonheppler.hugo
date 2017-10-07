@@ -9,8 +9,8 @@ tag: rev-riney-kehrberg
 subjects: review riney-kehrberg
 file:
 comments: no
-date: 2016-07-26
-publishdate: 2016-07-26
+date: 2017-09-30
+publishdate: 2017-09-30
 ---
 
 Review of <em>Nature of Childhood: An Environmental History of Growing Up in America since 1865</em> by Pamela Riney-Kehrberg.

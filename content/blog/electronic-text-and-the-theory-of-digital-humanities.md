@@ -1,4 +1,4 @@
----categories
+---
 date: 2011-09-14T14:01:49Z
 categories:
 - digital history
