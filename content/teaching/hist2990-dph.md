@@ -1,5 +1,5 @@
 ---
-title: "Digital Public History"
+title: "Introduction to Digital History"
 date: "2018-01-03T00:00:00+11:00"
 enddate: "2018-05-09T00:00:00+11:00"
 publishdate: "2017-10-06"
