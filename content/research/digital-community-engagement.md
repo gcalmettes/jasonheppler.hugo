@@ -5,7 +5,7 @@ author: Jason Heppler, Rebecca Wingo, and Paul Schaudenwald
 status: Forthcoming
 type: unpublished
 kind: book
-citation: "<em>Digital Community Engagement: Partnering Communities with the Academy</em>"
+citation: "<em>Digital Community Engagement: Partnering Communities with the Academy</em>. Lever Press, forthcoming."
 tag: community-engagement digital-engagement
 subjects: community-engagement digital-engagement
 file:

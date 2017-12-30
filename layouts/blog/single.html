@@ -15,8 +15,14 @@
 <div class="unit-60"><h2 class="entry-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2></div>
 </div>
 <div class="units-row">
-  <div class="unit-20 dateblock">{{if not (isset .Params "grlog") }}<h4>{{ .Date.Format "January 2, 2006" }}</h4>{{ else }}&nbsp;{{ end }}
+  <div class="unit-20 dateblock">
+    <strong>Published</strong>: <br/>
+    <a href="{{ .Permalink }}" title="{{ .Title }}" rel="bookmark">{{if not (isset .Params "grlog") }}<time class="entry-date" datetime="{{ .Date }}" pubdate> {{ .Date.Format "January 2, 2006" }}</h4>{{ else }}&nbsp;{{ end }}</a>
 
+
+    <br><br>
+
+    <strong>Categories</strong>: <br/>
     {{ if .Params.categories }}
     {{ range $index, $category := .Params.categories }}{{ if gt $index 0 }} / {{ end }}<a class="small" href="{{ $baseurl }}/categories/{{ . | urlize }}">{{ . }}</a>{{ end }}
     {{ end }}

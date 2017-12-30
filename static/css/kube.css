@@ -450,6 +450,7 @@ mark {
 }
 /* =Code
 -----------------------------------------------------------------------------*/
+/*
 pre,
 code,
 kbd,
@@ -498,6 +499,7 @@ kbd {
   color: rgba(255, 255, 255, 0.85);
   white-space: nowrap;
 }
+*/
 /* =Form
 -----------------------------------------------------------------------------*/
 button:active,
@@ -3141,9 +3143,11 @@ ul.dropdown li.divider {
 .hide {
   display: none;
 }
+/*
 .highlight {
   background-color: #f7f3e2;
 }
+*/
 .big {
   font-size: 18px;
 }

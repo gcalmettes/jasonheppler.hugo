@@ -1,6 +1,5 @@
 body {
-	font-family: "Fira Sans",
-							 -apple-system,
+	font-family: -apple-system,
                BlinkMacSystemFont,
                "Segoe UI",
                Roboto,
@@ -9,6 +8,7 @@ body {
                Cantarell,
                "Droid Sans",
                "Helvetica Neue",
+							 "Fira Sans",
                sans-serif;
 	line-height: 1.75;
   font-size: 1em;
@@ -22,7 +22,6 @@ h1, h2, h3, h4, h5 {
 	color: #313131;
 	text-rendering: optimizeLegibility;
 	font-weight: 300;
-	font-family: "Arvo", serif;
 }
 h2, h3, h4, h5 {
 	font-weight: normal;
@@ -31,18 +30,30 @@ h2, h3, h4, h5 {
 h2, h3 {
 	font-style: normal;
 }
-.entry-title a { color: #474747; text-decoration: none; font-size: 36px; }
 
+/* Posts */
+.entry-title a { color: #474747; text-decoration: none; font-size: 36px; }
+.entry-meta { text-align: center; color: #cbcece; font-size: 12px; letter-spacing: .07em; }
+.entry-meta a {text-decoration: none; color: #cd3700; }
+time, .entry-date { color: #7e7e7e; font-weight: 300;}
 .meta h4 {
   font-size: 13px;
   color: #A3ABB3;
   margin-bottom: 0.3em;
+}
+aside.post {
+  padding: 2em;
+  margin-bottom: 2em;
+  text-align: justify;
+  font-size: .8em;
+  background: #ECF0F1;
 }
 
 .label-red {
   background-color: #36454f;
 }
 
+/* Links */
 a{color:#089970; transition: all .05s ease-out;}
 a:hover, a:focus {background-color: #e4f7f0; color: #089970;}
 
@@ -52,14 +63,6 @@ a.badge.badge-red { color: #fff;}
 
 .sidebar-info {
   font-size: .8em;
-}
-
-aside.post {
-  padding: 2em;
-  margin-bottom: 2em;
-  text-align: justify;
-  font-size: .8em;
-  background: #ECF0F1;
 }
 
 .about-intro figure {
@@ -90,6 +93,40 @@ aside.post {
 
 /* =Code
 -----------------------------------------------------------------------------*/
+.code,
+g.highlight,
+li code,
+p code,
+pre code{font-family:San Francisco Mono,Monaco,Consolas,Lucida Console,DejaVu Sans Mono,Bitstream Vera Sans Mono,monospace;
+         font-size: 90%;}
+
+code {
+  padding: .25em .5em;
+  font-size: 85%;
+  color: #bf616a;
+  background-color: #ffffff;
+  border-radius: 3px;
+}
+pre {
+  overflow-x: auto;
+  overflow-y: hidden;
+  display: block;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  font-size: .8rem;
+  line-height: 1.4;
+}
+pre code {
+  padding: 0;
+  font-size: 100%;
+  color: inherit;
+  background-color: transparent;
+}
+code a {
+  border: none;
+}
+/*
 pre,
 code,
 kbd,
@@ -100,6 +137,7 @@ output {
   font-style: normal;
   font-family: PragmataPro, Menlo, Monaco, "Andale Mono", "Lucida Console", "Courier New", monospace;
 }
+*/
 
 /* =Common
 -----------------------------------------------------------------------------*/
@@ -207,11 +245,11 @@ h2 a {border-bottom: none;}
 #topbar li a {color: #fff;}
 #topbar li span a {color: #fff;}
 
-.avatar {
+/*.avatar {
 	-webkit-border-radius: 50em;
 	-moz-border-radius: 50em;
 	border-radius: 50em;
-}
+}*/
 
 .image-left {
   float: left;

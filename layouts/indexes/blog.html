@@ -14,13 +14,13 @@
     <div class="units-row">
       <div class="unit-70">
       <!-- Column of even-numbered posts -->
-      {{ range (.Paginator 10).Pages }}
+      {{ range (.Paginator 15).Pages }}
       {{ .Render "summary" }}
       {{ end }}
       </div>
       <div class="unit-30">
         <h3></h3>
-        <p><em>History and other distractions since 2008. View <a href="/blog/archives/">all posts by date</a>, or <a href="/categories/">an index of posts by category</a></em>.</p>
+        <p><em>History and other distractions since 2008. View the <a href="/categories/">index of posts by category</a></em>.</p>
       </div>
     </div>
   </div>

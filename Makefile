@@ -17,7 +17,7 @@ SSH_USER = jasonhep@jasonheppler.org
 DOCUMENT_ROOT = ~/public_html/jasonheppler/
 PUBLIC_DIR = public/
 
-all: deploy
+all: compress site 
 
 server: css
 	hugo server --buildDrafts -ws .

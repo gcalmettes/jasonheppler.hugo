@@ -1,10 +1,10 @@
 ---
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
+date: {{ .Date }}
 categories: [x,y]
-description:
-image:
-    feature: null
-    thumb: null
-series:
+footnotes: false
+htmlwidgets: false
+mathjax: false
 ---
 
 
@@ -15,4 +15,3 @@ series:
 
 
 {{% /highlight %}}
-

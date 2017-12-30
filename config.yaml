@@ -5,12 +5,11 @@ layoutdir: "layouts"
 publishdir: "public"
 builddrafts: false
 pygmentsuseclasses: true
-baseurl: "http://jasonheppler.org"
+baseurl: "https://jasonheppler.org"
 indexes:
   category: "categories"
 title: "Jason Heppler"
 CanonifyUrls: true
-RSSLink: "feed.xml"
 menu:
   main:
       - Name: "Research"
@@ -29,11 +28,11 @@ menu:
         URL: "/blog/"
         Weight: 6
       - Name: "Vita"
-        URL: "/downloads/pdf/jah-cv.pdf"
+        URL: "https://www.dropbox.com/s/cpbo7md7dooffg1/jah-cv.pdf?dl=0"
         Weight: 7
 permalinks:
   blog: /:year/:month/:day/:slug
-  archive: /blog/archives/
+  archive: /archives/
 
 outputFormats:
   jsonfeed:
