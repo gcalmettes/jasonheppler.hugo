@@ -15,7 +15,7 @@ command = "hugo"
 [context]
   [context.production]
     [context.production.environment]
-    HUGO_VERSION = "0.26"
+    HUGO_VERSION = "0.31.1"
     HUGO_ENV = "production"
     HUGO_ENABLEGITINFO = "true"
 
@@ -59,7 +59,6 @@ blog = "/:year/:month/:day/:slug"
 archive = "/archives/"
 
 [outputFormats]
-
   [outputFormats.jsonfeed]
   mediaType = "application/json"
   baseName = "feed"
