@@ -1,0 +1,73 @@
+MetaDataFormat = "yaml"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
+pygmentsuseclasses = true
+baseurl = "https://jasonheppler.org"
+title = "Jason Heppler"
+CanonifyUrls = true
+
+[build]
+publish = "public"
+command = "hugo"
+
+[context]
+  [context.production]
+    [context.production.environment]
+    HUGO_VERSION = "0.26"
+    HUGO_ENV = "production"
+    HUGO_ENABLEGITINFO = "true"
+
+[indexes]
+category = "categories"
+
+[menu]
+
+  [[menu.main]]
+  Name = "Research"
+  URL = "/research/"
+  Weight = 2.0
+
+  [[menu.main]]
+  Name = "Teaching"
+  URL = "/teaching/"
+  Weight = 3.0
+
+  [[menu.main]]
+  Name = "Public History"
+  URL = "/public-history/"
+  Weight = 4.0
+
+  [[menu.main]]
+  Name = "Talks"
+  URL = "/talks/"
+  Weight = 5.0
+
+  [[menu.main]]
+  Name = "Blog"
+  URL = "/blog/"
+  Weight = 6.0
+
+  [[menu.main]]
+  Name = "Vita"
+  URL = "https://www.dropbox.com/s/cpbo7md7dooffg1/jah-cv.pdf?dl=0"
+  Weight = 7.0
+
+[permalinks]
+blog = "/:year/:month/:day/:slug"
+archive = "/archives/"
+
+[outputFormats]
+
+  [outputFormats.jsonfeed]
+  mediaType = "application/json"
+  baseName = "feed"
+  isPlainText = true
+
+[outputs]
+home = [
+  "html",
+  "jsonfeed",
+  "rss"
+]
