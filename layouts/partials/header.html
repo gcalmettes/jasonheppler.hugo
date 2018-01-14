@@ -1,16 +1,36 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta charset="utf-8">
+  <head>
+    <link href="http://gmpg.org/xfn/11" rel="profile">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ .Title }}</title>
 
-    {{ partial "meta.html" . }}
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/kube.css" />
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/demo.css" />
+    <link rel="stylesheet" href="/css/stylesheet-min.css" />
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 
-    <base href="{{ .Site.BaseURL }}">
-    <title> {{ .Title }} </title>
-    <link rel="canonical" href="{{ .Permalink }}">
-    {{ if .RSSLink }}<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Title }}" />{{ end }}
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" href="{{ .Site.BaseURL }}/apple-touch-icon.png">
+    <link rel="shortcut icon" href="{{ .Site.BaseURL }}/favicon.ico" />
 
-    {{ partial "head_includes.html" . }}
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <!-- Javascripts -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="/javascripts/bigfoot.min.js"></script>
+    <script type="text/javascript">
+      $.bigfoot();
+    </script>
+
+    <!-- Fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,300' rel='stylesheet' type='text/css'>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fira+Mono|Fira+Sans:300,400|Arvo" rel="stylesheet">
+
+    <!-- RSS -->
+    <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+</script>
 </head>
