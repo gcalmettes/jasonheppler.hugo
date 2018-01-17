@@ -9,4 +9,4 @@ duration: 7776000
 
 This independent study confronts the current and potential influence of digital media on the theory and practice of history, exploring tools, methods, theories, and practices that are influencing the way historians do their work. The readings a range of readings along with a critical engagement with tools and resources.
 
-### [Syllabus](https://jasonheppler.org/assets/uno.dh-directed-readings.pdf)
+### [Syllabus](/assets/uno.dh-directed-readings.pdf)
