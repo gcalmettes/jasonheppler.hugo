@@ -46,7 +46,7 @@ category = "categories"
 
   [[menu.main]]
   Name = "Blog"
-  URL = "/blog/"
+  URL = "/archives/"
   Weight = 6.0
 
   [[menu.main]]
